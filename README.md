@@ -4,7 +4,7 @@ Mushroom_classifier
 
 
 
-With  Artificial neural network score = .98 
+## With  Artificial neural network score = .98 
    
    ELU activation function
    
@@ -16,5 +16,5 @@ With  Artificial neural network score = .98
 
 
 
-with random forest, svm  and Knn in stack score = .80
+ ## with random forest, svm  and Knn in stack score = .80
 
