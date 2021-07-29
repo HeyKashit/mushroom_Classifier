@@ -16,5 +16,5 @@ Mushroom_classifier
 
 
 
- ## with random forest, svm  and Knn in stack score = .80
+ ## with RandomForest, SVC and KNN in stack score = .80
 
